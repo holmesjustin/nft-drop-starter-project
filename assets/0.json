@@ -1,0 +1,21 @@
+{
+  "name": "Floating",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DVoY7iGQzZPfe9HcY6xf3VmaJ43RS3LMo3jToDSk87bj",
+        "share": 100
+      }
+    ]
+    
+  },
+  "collection": {"name": "Planet Z", "family": "Planet Z"}
+}
